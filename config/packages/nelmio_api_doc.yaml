@@ -1,0 +1,9 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: ICS ADE API
+            description: This is an awesome app!
+            version: 1.0.0
+    areas:
+        path_patterns:
+            - ^/(?!_)(.*)
